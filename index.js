@@ -1,9 +1,9 @@
 // Desafio de Projeto
 
-// Recebe a Qtde de Vitórias e Derrotas
+// Recebe a Qtde de Vitórias e Derrotas e Retorna o Saldo
 let wins = gameHero(2000,1900);
 
-// Verifica o Saldo de Vitórias
+// Verifica o Rank Atual
 let nivelHero = nivel(wins)
 
 // Altera texto do saldo
